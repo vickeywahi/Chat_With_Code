@@ -57,3 +57,6 @@ Start the Chat Interface:
 
 Run the main application (e.g., streamlit run app.py).
 Type your natural language questions about your codebase.
+<img width="1036" alt="Screenshot 2024-07-12 at 10 08 25" src="https://github.com/user-attachments/assets/485759a8-9ff7-4bbc-98ff-24a3b0d610e8">
+
+
