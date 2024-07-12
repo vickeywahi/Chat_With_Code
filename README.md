@@ -17,7 +17,7 @@ Learn how to effortlessly index GitHub repositories into Deep Lake and interact 
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
+   git clone <[repository_url](https://github.com/vickeywahi/Chat_With_Code/tree/master)>
    cd Chat_With_Code
 
 ### Create a Virtual Environment:
