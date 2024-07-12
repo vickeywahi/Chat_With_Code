@@ -1,5 +1,5 @@
 # Chat_With_Code
-Slightly modified tutorial @ActiveLoop - RAG for Prodcution with LangChain & LlamaIndex
+Slightly modified from the tutorial @ActiveLoop - RAG for Prodcution with LangChain & LlamaIndex
 
 ## Project Description
 
@@ -20,27 +20,28 @@ Learn how to effortlessly index GitHub repositories into Deep Lake and interact 
    git clone <repository_url>
    cd Chat_With_Code
 
-###Create a Virtual Environment:
+### Create a Virtual Environment:
 Bash
 pyenv virtualenv 3.10.13 repo-ai
 
-###Activate the Environment:
+### Activate the Environment:
 Bash
-pyenv activate repo-ai![image](https://github.com/user-attachments/assets/4a94ee0a-5cf2-4560-a120-8c6e4a69b9f2)
+pyenv activate repo-ai
 
-
-###Install Dependencies:
+### Install Dependencies:
 Bash
 pip install -r requirements.txt
 
-###Set up Your Environment Variables:
+### Set up Your Environment Variables:
 Create a .env file in your project directory.
 
-###Fill it with the following values (replace placeholders with your actual credentials):
+### Fill it with the following values (replace placeholders with your actual credentials):
 GITHUB_TOKEN=your_github_personal_access_token
 OPENAI_API_KEY=your_openai_api_key
 ACTIVELOOP_TOKEN=your_activeloop_token
 DATASET_PATH="hub://your_org_name/your_deep_lake_dataset_name"  
+
+### main.py() is working, but a number of enhanceents could be made in due course
 
 Type your natural language questions about your codebase.
 <img width="1036" alt="Screenshot 2024-07-12 at 10 08 25" src="https://github.com/user-attachments/assets/485759a8-9ff7-4bbc-98ff-24a3b0d610e8">
