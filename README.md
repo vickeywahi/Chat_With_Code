@@ -1,5 +1,4 @@
 # Chat_With_Code
-Slightly modified from the tutorial @ActiveLoop - RAG for Prodcution with LangChain & LlamaIndex
 
 ## Project Description
 
