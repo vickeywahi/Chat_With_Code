@@ -18,27 +18,27 @@ Learn how to effortlessly index GitHub repositories into Deep Lake and interact 
    ```bash
    git clone https://github.com/vickeywahi/Chat_With_Code
    cd Chat_With_Code
-Use code with caution.
-content_copy
+
+
 Create a Virtual Environment:
 
 Bash
 python3 -m venv repo-ai
-Use code with caution.
-content_copy
+
+
 Activate the Environment:
 
 Bash
 source repo-ai/bin/activate  # macOS/Linux
 .\repo-ai\Scripts\activate    # Windows
-Use code with caution.
-content_copy
+
+
 Install Dependencies:
 
 Bash
-pip install -r requirements.txt
-Use code with caution.
-content_copy
+pip install -r requirements.txt requirements-dev.txt
+
+
 Set up Your Environment Variables:
 
 Create a .env file in your project directory.
